@@ -1,0 +1,41 @@
+{
+  "transactions": [
+    {
+      "title": "lunch",
+      "amount": 149.96,
+      "type": "Expense",
+      "category": "Food",
+      "date": "2026-10-19",
+      "id": "q5NMYLRJkBE"
+    },
+    {
+      "title": "salary",
+      "amount": 5000,
+      "type": "Income",
+      "category": "Salary",
+      "date": "2026-10-19",
+      "id": "BiloqPMV7m4"
+    }
+  ],
+  "categories": [
+    {
+      "name": "medical",
+      "id": "7AGsp6eLf20"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "amount": 2000,
+      "month": "2026-10",
+      "id": "tvHY_revkf0"
+    },
+    {
+      "category": "Food",
+      "amount": 2000,
+      "month": "2026-10",
+      "id": "-N9aSYWyk8c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
